@@ -4,6 +4,8 @@
 
 Teliastats is a website that shows statistics for the Telialiagen League of Legends 2023 spring season. It shows statistics for the players and champions for all rounds of the season.
 
+https://thundeee.github.io/TeliaStats/
+
 ## Description
 
 Currently, there is no good way to view statistics for Telialiagen League of Legends. This website aims to fix that by showing statistics for the players and champions in all rounds of the season.
@@ -18,8 +20,6 @@ This means that my website would not be complete, and that's why when this happe
 
 
 
-
-
 ### TLDR:
 - Gamer.no has most of the data
 - Backend fetches data from Gamer.no and stores it in a database
@@ -27,7 +27,6 @@ This means that my website would not be complete, and that's why when this happe
 - Site show statistics for players and champions for all rounds of the season
 - Round stats are updated in real time
 - Gamer.no sometimes dosent have all the data and I have to input it manually
-
 
 
 ## Built With
@@ -39,6 +38,14 @@ You can list a the tech stack that you've used over here
 - [Sass](https://sass-lang.com/)
 - [MongoDB](https://www.mongodb.com/)
 - [Github Pages](https://pages.github.com)
+
+
+## Future plans
+
+For the next season, Telialigaen is changing their name to Good Game-ligaen. For that I will make a new verison of teliastats hopefully with alot of improvements. I plan to make the site open source and allow people to contribute to the project.The most requested feature at the moment is being able to compare players head to head and rankings for each role. These are the top prioritiy features for the next season.
+
+I also plan to have a chat with Gamer.no to see if they can provide me with data they get from the games. This would make the site be able to show more important stats like gold, cs, damage, and vision score.
+
 
 
 ## Getting Started
