@@ -37,8 +37,8 @@ Here you can detail any information you want to provide regarding contributing t
 
 The easiet way to get in contact with me is through discord or twitter. I am also available on other platforms which you can find on my website.
 
-<a href="https://twitter.com/potetsalatlol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="potetsalatlol" height="30" width="40" /></a>
-<a href="https://discord.com/users/183978195551387649" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Asbjorn#6086" height="30" width="40" /></a>
+<a href="https://twitter.com/potetsalatlol" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="potetsalatlol" height="30" width="40" /></a>
+<a href="https://discord.com/users/183978195551387649" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Asbjorn#6086" height="30" width="40" /></a>
 
 ## License
 
